@@ -39,6 +39,6 @@ function sayHiToGrandma(string){
     return('YES INDEED');
   }
   else{
-    
+    var mixed = 'I love you, Grandma.'
   }
 }
