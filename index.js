@@ -40,6 +40,6 @@ function sayHiToGrandma(string){
   }
   else{
     var mixed = 'I love you, too.';
-    return mixed
+    return mixed;
   }
 }
